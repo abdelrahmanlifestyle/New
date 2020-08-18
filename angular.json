@@ -21,7 +21,8 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "src/_redirects"
+              "src/_redirects",
+              "netlify.toml"
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
