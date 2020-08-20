@@ -36,6 +36,7 @@
     "@nguniversal/module-map-ngfactory-loader": "^7.0.0",
     "bootstrap": "3.3.7",
     "core-js": "^2.5.4",
+    "netlify-lambda": "^2.0.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
