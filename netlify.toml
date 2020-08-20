@@ -1,3 +1,4 @@
 [build]
   functions = "lambda"
-  command = "npm run build:lambda"
+  command = "npm run build:lambda && npm install &&  npm run build:ssr"
+  publish = "dist/browser"
